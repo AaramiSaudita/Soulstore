@@ -1,0 +1,172 @@
+[{
+        "id": 1,
+        "price": "Price: 95€",
+        "titulo": "Ornstein Figure (15 cm)",
+        "srcimg": "/ornstein.png",
+        "alt": "Dark Souls Dragon Slayer Ornstein 15 cm figure",
+        "texto": "Dragon Slayer Ornstein 15 cm figure. REF:0001",
+        "url": "#/Contact"
+    },
+    {
+        "id": 2,
+        "price": "Price: 15€",
+        "titulo": "Kalameet Ring",
+        "srcimg": "/Kalameet.png",
+        "alt": "Dark Souls's Dragon Kalameet's Ring with a red gem",
+        "texto": "Dragon Kalameet's Ring with a red gem. REF:0002",
+        "url": "#/Contact"
+    },
+    {
+        "id": 3,
+        "price": "Price: 10€",
+        "titulo": "Blade of the Darkmoon silver pendant",
+        "srcimg": "/DarkmoonBlade.png",
+        "alt": "Pendant of Blade of the Darkmoon from Dark Souls",
+        "texto": "Pendant of Blade of the Darkmoon. REF:0003",
+        "url": "#/Contact"
+    },
+    {
+        "id": 4,
+        "price": "Price: 15€",
+        "titulo": "Solarie T-shirt",
+        "srcimg": "/solair.png",
+        "alt": "Dark Souls Solaire of Astora's sun shield T-shirt",
+        "texto": "Solaire of Astora's sun shield T-shirt. REF:0004",
+        "url": "#/Contact"
+    },
+    {
+        "id": 5,
+        "price": "Price: 25€",
+        "titulo": "Soul of Cinder T-shirt",
+        "srcimg": "/CinderSoul.png",
+        "alt": "Dark Souls' Soul of cinder batle ringed sun T-shirt",
+        "texto": "Soul of cinder batle ringed sun T-shirt. REF:0005",
+        "url": "#/Contact"
+    },
+    {
+        "id": 6,
+        "price": "Price: 135€",
+        "titulo": "Lady Maria Figure (16 cm)",
+        "srcimg": "/lmaria.png",
+        "alt": "16 cm Lady Maria Figure from Bloodborne",
+        "texto": "16 cm Lady Maria Figure. REF:0006",
+        "url": "#/Contact"
+    },
+    {
+        "id": 7,
+        "price": "Price: 18€",
+        "titulo": "Doll T-shirt",
+        "srcimg": "/doll.png",
+        "alt": "T-shirt of hunter's dream doll from Bloodborne",
+        "texto": "T-shirt of hunter's dream doll. REF:0007",
+        "url": "#/Contact"
+    },
+    {
+        "id": 8,
+        "price": "Price: 40€",
+        "titulo": "Rune Rings",
+        "srcimg": "/Rune.png",
+        "alt": "Ring with carved Bloodborne runes",
+        "texto": "Ring with carved Bloodborne runes. REF:0008",
+        "url": "#/Contact"
+    },
+    {
+        "id": 9,
+        "price": "Price: 15€",
+        "titulo": "Hunter's necklaces",
+        "srcimg": "/HunterN.png",
+        "alt": "Logarius wheel and other Bloodborne necklaces",
+        "texto": "Logarius wheel and other Bloodborne necklaces. REF:0009",
+        "url": "#/Contact"
+    },
+    {
+        "id": 10,
+        "price": "Price: 55€",
+        "titulo": "Kusabimaru Katana",
+        "srcimg": "/katana.png",
+        "alt": "Wolf's Kusabimaru Katana from Sekiro: Shadows die twice",
+        "texto": "Wolf's Kusabimaru Katana. REF:0010",
+        "url": "#/Contact"
+    },
+    {
+        "id": 11,
+        "price": "Price: 130€",
+        "titulo": "Articulated Wolf Figure (15 cm)",
+        "srcimg": "/lobo.png",
+        "alt": "15 cm Wolf articulated figure from Sekiro: Shadows die twice",
+        "texto": "Articulated Sekiro's main character Wolf Figure of 15 cm. REF:0011 ",
+        "url": "#/Contact"
+    },
+    {
+        "id": 12,
+        "price": "Price: 7€",
+        "titulo": "Death Keychain",
+        "srcimg": "/Chapadeath.png",
+        "alt": "Keychain with the word death in japanese engraved in it from Sekiro: Shadows die twice",
+        "texto": "Keychain with the word death in japanese engraved in it from. REF:0012",
+        "url": "#/Contact"
+    },
+    {
+        "id": 13,
+        "price": "Price: 7€",
+        "titulo": "Oni Keychain",
+        "srcimg": "/Chapaoni.png",
+        "alt": "Japanese devil Oni engraved in a keychain from Sekiro: Shadows die twice",
+        "texto": "Japanese devil Oni engraved in a keychain. REF:0013",
+        "url": "#/Contact"
+    },
+    {
+        "id": 14,
+        "price": "Price: 15€",
+        "titulo": "Death T-shirt",
+        "srcimg": "/death.png",
+        "alt": "T-shirt with word death in japanese from Sekiro: Shadows die twice",
+        "texto": "T-shirt with word death in japanese. REF:0014",
+        "url": "#/Contact"
+    },
+    {
+        "id": 15,
+        "price": "Price: 25€",
+        "titulo": "Wolf sweater",
+        "srcimg": "/lobocamiseta.png",
+        "alt": "T-shirt with drawing of Wolf from Sekiro: Shadows die twice",
+        "texto": "T-shirt with drawing of Wolf. REF:0015",
+        "url": "#/Contact"
+    },
+    {
+        "id": 16,
+        "price": "Price: 15€",
+        "titulo": "Elden Ring T-shirt",
+        "srcimg": "/eldring.png",
+        "alt": "Elden Ring's burning ring T-shirt",
+        "texto": "Burning ring T-shirt. REF:0016",
+        "url": "#/Contact"
+    },
+    {
+        "id": 17,
+        "price": "Price: 25€",
+        "titulo": "Dragon Sweater",
+        "srcimg": "/dragon.png",
+        "alt": "Elden Ring's Flying Dragon Agheel Sweater",
+        "texto": "Flying Dragon Agheel Sweater. REF:0017",
+        "url": "#/Contact"
+    },
+    {
+        "id": 18,
+        "price": "Price: 115€",
+        "titulo": "Malenia Blade of Miquella Figure (23 cm)",
+        "srcimg": "/malenia.png",
+        "alt": "Elden Ring's 23 cm Malenia Blade of Miquella Figure",
+        "texto": "23 cm Malenia Blade of Miquella Figure. REF:0018",
+        "url": "#/Contact"
+    },
+    {
+        "id": 19,
+        "price": "Price: 25€",
+        "titulo": "Malenia Berserk Sweater",
+        "srcimg": "/MaleniaCamiseta.png",
+        "alt": "Elden Ring's Malenia Berserk Sweater",
+        "texto": "Malenia Berserk Sweater. REF:0019",
+        "url": "#/Contact"
+    }
+]
